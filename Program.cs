@@ -7,6 +7,8 @@ products.Add(new Product { ProductID = 1, ProductName = "Table" });
 
 products.Add(new Product { ProductID = 2, ProductName = "Chair" });
 
+products.Add(new Product { ProductID = 4, ProductName = "Pen" });
+
 products.ShowList();
 
 Console.WriteLine("-------------");
